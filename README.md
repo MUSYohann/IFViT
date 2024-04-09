@@ -1,2 +1,2 @@
-# TOPIC: IFViT: Interpretable Fixed-Length Representation for Fingerprint Matching via Vision Transformer
+# IFViT: Interpretable Fixed-Length Representation for Fingerprint Matching via Vision Transformer
 [IEEE TIFS under review] 
