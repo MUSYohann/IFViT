@@ -9,7 +9,7 @@ Determining dense feature points on fingerprints used in constructing deep fixed
 <p align="center"><img src="figs/Samples of intepretability.jpg" width="1000"/></p>
 
 ## Requirements
-* Python==3.8.10
+* python==3.8.10
 * accelerate==0.20.3
 * einops==0.7.0
 * kornia==0.6.9
