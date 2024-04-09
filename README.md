@@ -9,18 +9,18 @@ Determining dense feature points on fingerprints used in constructing deep fixed
 <p align="center"><img src="figs/Samples of intepretability.jpg" width="1000"/></p>
 
 ## Requirements
-Python==3.8.10
-accelerate==0.20.3
-einops==0.7.0
-kornia==0.6.9
-matplotlib==3.5.0
-numpy==1.21.1
-opencv-python==4.6.0.66
-pytorch-metric-learning==2.3.0
-torch==1.13.1
-torchvision==0.14.1
-tqdm==4.63.0
-vit-pytorch==1.6.5
+* Python==3.8.10
+* accelerate==0.20.3
+* einops==0.7.0
+* kornia==0.6.9
+* matplotlib==3.5.0
+* numpy==1.21.1
+* opencv-python==4.6.0.66
+* pytorch-metric-learning==2.3.0
+* torch==1.13.1
+* torchvision==0.14.1
+* tqdm==4.63.0
+* vit-pytorch==1.6.5
 
 ## Remark
 Since our work has been submitted and is currently under review at the IEEE Transactions on Information Forensics and Security (TIFS), only partial non-core codes have been released for verification purposes. The complete code will be organized and made available upon the acceptance and publication of this work.
